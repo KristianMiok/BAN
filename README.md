@@ -1,1 +1,1 @@
-# BAN
+# Bayesian Attention Networks
