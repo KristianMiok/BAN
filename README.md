@@ -1,1 +1,1 @@
-# Bayesian Attention Networks
+# Monte Carlo Dropout Attention Networks
